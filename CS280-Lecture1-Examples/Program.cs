@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace CS280_Lecture1_Examples
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
         }
     }
 }
