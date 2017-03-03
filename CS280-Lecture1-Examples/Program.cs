@@ -10,8 +10,6 @@ namespace CS280_Lecture1_Examples
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-
             Pokemon pokemon = new Pokemon();
             pokemon.Height = 2.0f;
             pokemon.Weight = 12.7f;
